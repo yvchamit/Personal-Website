@@ -13,7 +13,7 @@ export const setLanguage = (language) => {
 };
 
 export const setData = () => (dispatch) => {
-  axios.get("/data.json")
+  axios.get("./data.json")
     .then((res) => {
       dispatch({ type: SET_DATA, payload: res.data });
     })
