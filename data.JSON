@@ -1,0 +1,254 @@
+{
+  "tr": {
+    "header": {
+      "darkMode": "KARANLIK MOD",
+      "lightMode": "AYDINLIK MOD",
+      "languageToggle": "ENGLISH",
+      "languageText": "'S SWITCH",
+      "links": [
+        { "label": "Yetenekler", "url": "#skills" },
+        { "label": "Projeler", "url": "#projects" },
+        {
+          "label": "Benimle Çalış",
+          "url": "mailto:almilasucode@gmail.com",
+          "type": "button"
+        }
+      ]
+    },
+    "hero": {
+      "name": "Almila Su",
+      "title": "Yaratıcı düşünür Minimalizm sever",
+      "description": "Merhaba, ben Almila. Full-stack geliştiriciyim. Harika kullanıcı deneyimlerine sahip, sağlam ve ölçeklenebilir frontend ürünleri hazırlayacak bir geliştirici arıyorsanız; el sıkışalım.",
+      "image": "/images/hero.png",
+      "buttons": [
+        { "label": "Beni işe al", "url": "#hire-me", "type": "primary" },
+        {
+          "label": "GitHub",
+          "url": "https://github.com",
+          "icon": "fab fa-github"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://linkedin.com",
+          "icon": "fab fa-linkedin"
+        }
+      ]
+    },
+    "skills": {
+      "title": "Yetenekler",
+      "list": [
+        {
+          "name": "JavaScript",
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "name": "React.Js",
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "name": "Node.Js",
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    "profile": {
+      "title": "Profil",
+      "basicInfo": {
+        "title": "Profil",
+        "items": [
+          { "label": "Doğum Tarihi", "value": "24.03.1996" },
+          { "label": "İkamet Şehri", "value": "Ankara" },
+          {
+            "label": "Eğitim Durumu",
+            "value": "Hacettepe Ünv. Biyoloji, Lisans, 2016"
+          },
+          { "label": "Tercih Ettiği Rol", "value": "Frontend, UI" }
+        ]
+      },
+      "about": {
+        "title": "Hakkımda",
+        "paragraphs": [
+          "İşbirliğine açık ve ekip ruhuna inanan bir geliştirici olarak, teknik becerilerimi yaratıcılıkla harmanlamayı seviyorum.",
+          "Amacım, sadece çalışan değil, aynı zamanda ilham veren dijital deneyimler inşa etmek. Portfolyomda yer alan her çalışma, bu vizyonun ve disiplinli bir çalışma sürecinin ürünüdür."
+        ]
+      }
+    },
+    "projects": {
+      "title": "Projeler",
+      "list": [
+        {
+          "title": "Workintech",
+          "description": "Kullanıcılarınızın hangi çerezleri kabul edeceklerini veya reddedeceklerini seçmelerine olanak tanıyan, basit, özelleştirilebilir ve minimalist bir çerez eklentisi. Bu eklenti, Vanilla JS, SCSS ve Parcel Bundler kullanılarak geliştirilmiştir; NPM paketi olarak sunulmaktadır ve git deposu sayesinde kod ve temalarda her türlü özelleştirme yapılabilmektedir.",
+          "tags": ["react", "redux", "axios"],
+          "image": "/images/proje1.png",
+          "github": "Github",
+          "viewSite": "Siteyi Görüntüle",
+          "url": "#"
+        },
+        {
+          "title": "Journey",
+          "description": "Kullanıcılarınızın hangi çerezleri kabul edeceklerini veya reddedeceklerini seçmelerine olanak tanıyan, basit, özelleştirilebilir ve minimalist bir çerez eklentisi. Bu eklenti, Vanilla JS, SCSS ve Parcel Bundler kullanılarak geliştirilmiştir; NPM paketi olarak sunulmaktadır ve git deposu sayesinde kod ve temalarda her türlü özelleştirme yapılabilmektedir.",
+          "tags": ["react", "redux", "axios"],
+          "image": "/images/proje2.png",
+          "github": "Github",
+          "viewSite": "Siteyi Görüntüle",
+          "url": "#"
+        },
+        {
+          "title": "Random Jokes",
+          "description": "Kullanıcılarınızın hangi çerezleri kabul edeceklerini veya reddedeceklerini seçmelerine olanak tanıyan, basit, özelleştirilebilir ve minimalist bir çerez eklentisi. Bu eklenti, Vanilla JS, SCSS ve Parcel Bundler kullanılarak geliştirilmiştir; NPM paketi olarak sunulmaktadır ve git deposu sayesinde kod ve temalarda her türlü özelleştirme yapılabilmektedir.",
+          "tags": ["react", "redux", "axios"],
+          "image": "/images/proje3.png",
+          "github": "Github",
+          "viewSite": "Siteyi Görüntüle",
+          "url": "#"
+        }
+      ]
+    },
+    "footer": {
+      "title": "Bir sonraki ürününüz için\nbirlikte çalışalım.",
+      "email": "almilasucode@gmail.com",
+      "icon":"./images/handDirection.png",
+      "links": [
+        { "label": "Kişisel Blog", "url": "#", "color": "#0A0A14" },
+        { "label": "Github", "url": "https://github.com", "color": "#00AB6B" },
+        {
+          "label": "Linkedin",
+          "url": "https://linkedin.com",
+          "color": "#0077B5"
+        }
+      ]
+    },
+    "toast": {
+      "darkModeOn": "Karanlık mod aktif edildi",
+      "darkModeOff": "Aydınlık mod aktif edildi",
+      "langChanged": "Language switched to English"
+    }
+  },
+  "en": {
+    "header": {
+      "darkMode": "DARK MODE",
+      "lightMode": "LIGHT MODE",
+      "languageToggle": "TÜRKÇE",
+      "languageText": "'YE GEÇ",
+      "links": [
+        { "label": "Skills", "url": "#skills" },
+        { "label": "Projects", "url": "#projects" },
+        {
+          "label": "Hire Me",
+          "url": "mailto:almilasucode@gmail.com",
+          "type": "button"
+        }
+      ]
+    },
+    "hero": {
+      "name": "Almila Su",
+      "title": "Creative thinker Minimalism lover",
+      "description": "Hi, I’m Almila. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me.",
+      "image": "/images/hero.png",
+      "buttons": [
+        { "label": "Hire me", "url": "#hire-me", "type": "primary" },
+        {
+          "label": "GitHub",
+          "url": "https://github.com",
+          "icon": "fab fa-github"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://linkedin.com",
+          "icon": "fab fa-linkedin"
+        }
+      ]
+    },
+    "skills": {
+      "title": "Skills",
+      "list": [
+        {
+          "name": "JavaScript",
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "name": "React.Js",
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "name": "Node.Js",
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    "profile": {
+      "title": "Profile",
+      "basicInfo": {
+        "title": "Profile",
+        "items": [
+          { "label": "Birthday", "value": "24.03.1996" },
+          { "label": "City of Residence", "value": "Ankara" },
+          {
+            "label": "Education",
+            "value": "Hacettepe Univ. Biology, Bachelor, 2016"
+          },
+          { "label": "Preferred Role", "value": "Frontend, UI" }
+        ]
+      },
+      "about": {
+        "title": "About Me",
+        "paragraphs": [
+          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia.",
+          "Minima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!"
+        ]
+      }
+    },
+    "projects": {
+      "title": "Projects",
+      "list": [
+        {
+          "title": "Workintech",
+          "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+          "tags": ["react", "redux", "axios"],
+          "image": "/images/proje1.png",
+          "github": "Github",
+          "viewSite": "View Site",
+          "url": "#"
+        },
+        {
+          "title": "Journey",
+          "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+          "tags": ["react", "redux", "axios"],
+          "image": "/images/proje2.png",
+          "github": "Github",
+          "viewSite": "View Site",
+          "url": "#"
+        },
+        {
+          "title": "Random Jokes",
+          "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+          "tags": ["react", "redux", "axios"],
+          "image": "/images/proje3.png",
+          "github": "Github",
+          "viewSite": "View Site",
+          "url": "#"
+        }
+      ]
+    },
+    "footer": {
+      "title": "Let’s work together on\nyour next product.",
+      "email": "almilasucode@gmail.com",
+      "icon":"./images/handDirection.png",
+      "links": [
+        { "label": "Personal Blog", "url": "#", "color": "#0A0A14" },
+        { "label": "Github", "url": "https://github.com", "color": "#00AB6B" },
+        {
+          "label": "Linkedin",
+          "url": "https://linkedin.com",
+          "color": "#0077B5"
+        }
+      ]
+    },
+    "toast": {
+      "darkModeOn": "Dark mode activated",
+      "darkModeOff": "Light mode activated",
+      "langChanged": "Dil Türkçe olarak değiştirildi"
+    }
+  }
+}
