@@ -5,7 +5,7 @@ import {
 } from "../actions/settingsActions";
 
 const initialState = {
-  darkMode: JSON.parse(localStorage.getItem("darkMode")) || "false",
+  darkMode: localStorage.getItem("darkMode") === "true",
   language: localStorage.getItem("language") || "tr",
   allData: null,
   content: null,
@@ -18,7 +18,7 @@ export function themeReducer(state = initialState, action) {
   switch (action.type) {
 
     case SET_DARK_MODE:
-      localStorage.setItem("darkMode", JSON.stringify(setMode));
+      localStorage.setItem("darkMode", setMode);
       return {
         ...state,
         darkMode: setMode,
